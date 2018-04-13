@@ -1,0 +1,41 @@
+\begin{thebibliography}{9}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Acero} {et~al.}(2015){Acero}, {Ackermann}, {Ajello},
+  {et~al.}}]{acero2015}
+{Acero}, F., {Ackermann}, M., {Ajello}, M., {et~al.} 2015, \apjs, 218, 23
+
+\bibitem[{{Bregeon} {et~al.}(2013){Bregeon}, {Charles}, \& {M.~Wood for the
+  Fermi-LAT collaboration}}]{2013arXiv1304.5456B}
+{Bregeon}, J., {Charles}, E., \& {M.~Wood for the Fermi-LAT collaboration}.
+  2013, ArXiv:1304.5456
+
+\bibitem[{{Gnedin} {et~al.}(2010){Gnedin}, {Brown}, {Geller}, \&
+  {Kenyon}}]{2010ApJ...720L.108G}
+{Gnedin}, O.~Y., {Brown}, W.~R., {Geller}, M.~J., \& {Kenyon}, S.~J. 2010,
+  \apjl, 720, L108
+
+\bibitem[{{Kuhlen} {et~al.}(2010){Kuhlen}, {Weiner}, {Diemand}, {Madau},
+  {Moore}, {Potter}, {Stadel}, \& {Zemp}}]{2010JCAP...02..030K}
+{Kuhlen}, M., {Weiner}, N., {Diemand}, J., {Madau}, P., {Moore}, B., {Potter},
+  D., {Stadel}, J., \& {Zemp}, M. 2010, \jcap, 2, 030
+
+\bibitem[{{McMillan}(2011)}]{2011MNRAS.414.2446M}
+{McMillan}, P.~J. 2011, \mnras, 414, 2446
+
+\bibitem[{{McMillan} \& {Binney}(2010)}]{2010MNRAS.402..934M}
+{McMillan}, P.~J., \& {Binney}, J.~J. 2010, \mnras, 402, 934
+
+\bibitem[{{Sofue} {et~al.}(2009){Sofue}, {Honma}, \&
+  {Omodaka}}]{2009PASJ...61..227S}
+{Sofue}, Y., {Honma}, M., \& {Omodaka}, T. 2009, \pasj, 61, 227
+
+\bibitem[{{Wilkinson} \& {Evans}(1999)}]{1999MNRAS.310..645W}
+{Wilkinson}, M.~I., \& {Evans}, N.~W. 1999, \mnras, 310, 645
+
+\bibitem[{{Xue} {et~al.}(2008){Xue}, {Rix}, {Zhao}, {Re Fiorentin}, {Naab},
+  {Steinmetz}, {van den Bosch}, {Beers}, {Lee}, {Bell}, {Rockosi}, {Yanny},
+  {Newberg}, {Wilhelm}, {Kang}, {Smith}, \& {Schneider}}]{2008ApJ...684.1143X}
+{Xue}, X.~X., {et~al.} 2008, \apj, 684, 1143
+
+\end{thebibliography}

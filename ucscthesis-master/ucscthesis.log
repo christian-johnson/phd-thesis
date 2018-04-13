@@ -1,0 +1,273 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  15 FEB 2018 12:01
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**ucscthesis.cls
+(./ucscthesis.cls
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+You are using a modified ucscthesis.cls
+
+LaTeX Warning: You have requested package `',
+               but the package provides `ucscthesis'.
+
+Package: ucscthesis 2017/03/29 v3.2-ucsc-4 University of California Santa Cruz 
+Thesis Class
+
+./ucscthesis.cls:29: LaTeX Error: Command \@ already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \newcommand\@p
+                   tsize{}
+? 
+
+./ucscthesis.cls:29: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \newcommand\@pt
+                    size{}
+? 
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+
+./ucscthesis.cls:30: LaTeX Error: Command \@ already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 \newcommand\@d
+                   raftmark{}
+? 
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+
+./ucscthesis.cls:31: LaTeX Error: Command \@ already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \newcommand\@p
+                   roposalmark{}
+? 
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 29--42
+[]
+ []
+
+./ucscthesis.cls:81: I can't find file `uct1pptsize.clo'.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+./ucscthesis.cls:81: I can't find file `uct1pptsize.clo'.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+./ucscthesis.cls:81: I can't find file `uct1pptsize.clo'.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+./ucscthesis.cls:81: I can't find file `uct1pptsize.clo'.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+./ucscthesis.cls:81: I can't find file `uct1pptsize.clo'.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+./ucscthesis.cls:81: I can't find file `uct1pptsize.clo'.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+./ucscthesis.cls:81: I can't find file `uct1pptsize.clo'.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+./ucscthesis.cls:81: I can't find file `uct1pptsize.clo'.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+./ucscthesis.cls:81: I can't find file `uct1pptsize.clo'.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+./ucscthesis.cls:81: I can't find file `uct1pptsize.clo'.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+./ucscthesis.cls:81: I can't find file `uct1pptsize.clo'.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+./ucscthesis.cls:81: I can't find file `uct1pptsize.clo'.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+./ucscthesis.cls:81: I can't find file `uct1pptsize.clo'.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+./ucscthesis.cls:81: I can't find file `uct1pptsize.clo'.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+./ucscthesis.cls:81: I can't find file `uct1pptsize.clo'.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+./ucscthesis.cls:81: I can't find file `uct1pptsize.clo'.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+./ucscthesis.cls:81: Emergency stop.
+<to be read again> 
+                   \relax 
+l.81 \input uct1\@ptsize.clo\relax
+                                  
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 21 strings out of 493014
+ 259 string characters out of 6133351
+ 53601 words of memory out of 5000000
+ 3661 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 12i,0n,18p,122b,14s stack positions out of 5000i,500n,10000p,200000b,80000s
+./ucscthesis.cls:81:  ==> Fatal error occurred, no output PDF file produced!

@@ -1,22 +1,72 @@
-\documentclass[11pt]{amsart}
-\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
-\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
-%\geometry{landscape}                % Activate for for rotated page geometry
-%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
-\usepackage{graphicx}
+\documentclass[11pt]{book}
+
+\usepackage{geometry}       
+ 
+\geometry{letterpaper}    
+\usepackage{graphicx,epsfig}
+\usepackage{natbib}
 \usepackage{amssymb}
 \usepackage{epstopdf}
+\usepackage[latin]{babel}
+\usepackage{blindtext}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{dsfont}
+\usepackage{amsxtra}
+\usepackage{amssymb}
+\usepackage{upgreek}
+ \usepackage[hidelinks]{hyperref} 
+\newcommand{\onepic}{.4}
+
+\usepackage{multirow}
+\usepackage{url}
+
 \DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
 
-\title{Brief Article}
-\author{The Author}
-%\date{}                                           % Activate to display a given date or no date
 
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}{Definition}
+\newtheorem{lemma}{Lemma}
+\newtheorem{exercise}{Exercise}
+\newtheorem{remark}{Remark}
+\newtheorem{example}{Example}
+\newtheorem{warning}{Warning}
+
+\newcommand{\Fermi}{\textsl{Fermi}\xspace}
+\newcommand{\LAT}{\textsl{LAT}\xspace}
+
+\def\grad{ \mbox{grad}}
+\def\curl{ \mbox{curl}}
+\def\div{ \mbox{div}}
+\def\U{\ensuremath {\cal U}}
+\def\S{\ensuremath {\cal S}}
+\def\V{\ensuremath {\cal V}}
+\def\R{\ensuremath {\cal R}}
+\def\tr{\ensuremath {\mbox{tr}}}
+
+
+
+
+% ------------------- Title and Author -----------------------------
+\title{Searches for New Physics with Fermi-LAT}
+\author{Christian Johnson}
 \begin{document}
+
+
+\frontmatter
 \maketitle
-%\section{}
-%\subsection{}
+
+\tableofcontents
 
 
+\include{Chapter1/chapter1}
+\include{Chapter2/chapter2}
 
-\end{document}  
+\bibliographystyle{apj}
+\bibliography{thesis_bibliography}
+
+\end{document}
+\end
+

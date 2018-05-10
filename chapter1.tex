@@ -8,7 +8,23 @@ And yet for all its successes, the Standard Model remains, at best, frustratingl
 \section{Dark Matter}
 Multiple lines of inquiry have firmly established that a majority of the energy density of the Universe is composed of a component which is neither baryonic nor luminous. The first indications of what we now call dark matter (DM) were Zwicky's observations in 1933 that the velocity dispersion of galaxies in the Coma Cluster was far higher than the escape velocity predicted from the mass of the luminous galaxies \cite{zwicky_1933}. Later observations of galaxy clustering, for example Kahn \& Woltjer's analysis of the motion of Andromeda \cite{kahn_intergalactic_1959}, further indicated that galaxies were far more massive than conventionally expected. Evidence continued to mount in the 1970s as work done by Rubin \& Ford \cite{rubin_rotation_1970} and Roberts \& Rots \cite{roberts_comparison_1973} showed that the rotation curve of Andromeda was flat out to large distances (30 kpc) from the galactic center, indicating that the mass-to-light ratio at large radii was far larger than that of a typical star. Further data from Rubin \cite{rubin_extended_1978} subsequently confirmed that the same result held true for a nearly all spiral galaxies she considered. 
  
-The mystery deepened as it became clear that the dark matter could not be composed of traditional baryonic matter. The most visceral indication of this comes from a comparison of the gravitational lensing by merging galaxies in the Bullet Cluster to an X-ray tracer of the gas content \cite{clowe_direct_2006}. The data shows conclusively that although the gas dominates the visible mass of the cluster, the lion's share of the mass undergoes little self-interaction. Moreover, Big Bang nucleosynthesis (BBN) constrains the baryonic density of the the Universe to be less than about one twentieth of the critical density $\Omega_c$, but the astronomical observations indicate that the DM density is approximately a quarter of the critical density. Finally, the scale of temperature fluctuations in the CMB is too small to account for the observed density clustering in today's Universe, but the problem can be resolved if the Universe has a large nonbaryonic component \cite{einasto_dark_2009}.
+The mystery deepened as it became clear that the dark matter could not be composed of traditional baryonic matter. The most visceral indication of this comes from a comparison of the gravitational lensing by merging galaxies in the Bullet Cluster to an X-ray tracer of the gas content \cite{clowe_direct_2006}, as seen in Figure \ref{fig:clowe}. The data shows conclusively that although the gas dominates the visible mass of the cluster, the lion's share of the mass undergoes little self-interaction. Moreover, Big Bang nucleosynthesis (BBN) constrains the baryonic density of the the Universe to be less than about one twentieth of the critical density $\Omega_c$, but the astronomical observations indicate that the DM density is approximately a quarter of the critical density. Finally, the scale of temperature fluctuations in the CMB is too small to account for the observed density clustering in today's Universe, but the problem can be resolved if the Universe has a large nonbaryonic component \cite{einasto_dark_2009}.
+
+\begin{figure}
+\begin{center}
+\includegraphics[width=0.45\columnwidth]{figures/clowe_a.jpg}
+\includegraphics[width=0.45\columnwidth]{figures/clowe_b.jpg}
+\end{center}
+\caption{
+\label{fig:clowe}
+{\it Left panel:} Optical image of the colliding Bullet cluster, taken with the Magellan telescope.
+{\it Right panel:} X-ray image of the same region from the Chandra space telescope.
+In both panels, the white contours show the location of the region of maximum gravitational shear.
+The gas content, traced by the X-ray emission, lags behind the bulk of the mass due to scattering during the collision.
+Figure reproduced from \cite{clowe_direct_2006}.
+}
+\end{figure}
+
 
 Today, DM plays a key role in the successful $\Lambda$CDM model of the Universe by seeding density fluctuations around which galaxies grow.
 N-body simulations of galaxy formation with cold dark matter have shown great success at reproducing the observed structure \cite{bertone_particle_2010}.
@@ -35,12 +51,12 @@ Such searches must contend with significant backgrounds from SM electroweak proc
 The scattering of WIMPs off of nucleons can also be searched for by low-background counting experiments.
 These experiments are typically performed deep underground to avoid contamination by showers from cosmic rays.
 Finally, WIMPs may annihilate or decay to Standard Model particles, which can be detected by looking at areas in the Universe where high concentrations of dark matter exists are believed to exist.
-Searching for WIMP annihilation via this 'indirect detection' paradigm will be the focus of Sections X \& Y. 
+Searching for WIMP annihilation via this 'indirect detection' paradigm will be the focus of Chapters \ref{chapter:pwave} \& Y\ref{chapter:pwave_analysis}. 
 
 \subsection{PBHs}
 Unlike many other dark matter candidates, primordial black holes (PBHs) are attractive as dark matter candidates because they require little new physics beyond the Standard Model.
 Producing enough PBHs to account for the present DM density is subject to some theoretical difficulties, but several authors have argued that they could arise naturally in a variety of scenarios (see Section X for more details).
-PBHs also present straightforward detection strategies- heavy PBHs can in principle be detected via the gravitational wave events from their mergers; intermediate-mass PBHs can be constrained by their accretion onto neutron stars and white dwarfs \cite{pani_tidal_2014} or potentially detected via microlensing events \cite{carr_primordial_2016}. Low-mass PBHs can be detected by their Hawking radiation; a more detailed discussion of PBHs as dark matter candidates and the prospects for detecting low-mass PBHs will follow in Section X. 
+PBHs also present straightforward detection strategies- heavy PBHs can in principle be detected via the gravitational wave events from their mergers; intermediate-mass PBHs can be constrained by their accretion onto neutron stars and white dwarfs \cite{pani_tidal_2014} or potentially detected via microlensing events \cite{carr_primordial_2016}. Low-mass PBHs can be detected by their Hawking radiation; a more detailed discussion of PBHs as dark matter candidates and the prospects for detecting low-mass PBHs will follow in Section \ref{chapter:pbhs}. 
 
 \section{Quantum Field Theory in Curved Spacetime}
 Although general relativity and the Standard Model excel at describing Nature on large and small scales, respectively, a complete theory of quantum gravity remains unknown. Theorists have had some success (see the results in Section X, for instance) in describing quantum field theories in a background of curved spacetime, but generally these models neglect perturbative interactions in favor of free fields. 
@@ -54,7 +70,7 @@ The Planck scale (roughly $10^{18}$ GeV), where GR effects become important in q
 Only a handful of instances exist where general relativity can conceivably be applied to a quantum system- the Big Bang, for instance.
 Observing the Big Bang directly in the electromagnetic spectrum is made difficult by the presence of the cosmic microwave background (CMB).
 Future experiments, however, may be able to detect primordial gravitational waves (either directly or via B-mode polarizations in the CMB) that are predicted to arise from models of inflation and thus provide a crucial test of theories of the Big Bang.
-Alternatively, PBHs provide a natural laboratory for observing physics at the Planck scale: as PBHs evaporate, their temperature diverges towards the Planck scale and necessarily new physics will describe their dynamics. A search for PBHs in this context is described in Sections X \&Y.
+Alternatively, PBHs provide a natural laboratory for observing physics at the Planck scale: as PBHs evaporate, their temperature diverges towards the Planck scale and necessarily new physics will describe their dynamics. A search for PBHs in this context is described in Chapters \ref{chapter:pbhs} \& \ref{chapter:pbh_analysis}.
 
 In the work that follows I present two analyses that make use of data from the Fermi Large Area Telescope (Fermi-LAT) to search for evidence of dark matter and PBHs. I will show that the capabilities of {\it{Fermi}}-LAT allow it to test models of physics that cannot be studied with other means. Gamma-ray astrophysics remains one of the best available probes of physics beyond the Standard Model.
 

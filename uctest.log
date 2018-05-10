@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.4.30)  4 MAY 2018 10:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.4.30)  9 MAY 2018 17:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -205,6 +205,12 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count122
+\c@@ppsavesec=\count123
+\c@@ppsaveapp=\count124
+)
 (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 
@@ -221,30 +227,31 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \TX@old@col=\dimen128
 \TX@target=\dimen129
 \TX@delta=\dimen130
-\TX@cols=\count122
+\TX@cols=\count125
 \TX@ftn=\toks22
 ) (./uctest.aux
 (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux)
-(./chapter6.aux))
+(./chapter5.aux) (./chapter6.aux) (./chapter7.aux) (./appendix.aux))
 \openout1 = `uctest.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 33.
-LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 33
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 35.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 35
 .
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omspzccm.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omspzccm.fd
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -282,16 +289,16 @@ LaTeX Font Info:    ... okay on input line 33.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count123
+\scratchcounter=\count126
 \scratchdimen=\dimen131
 \scratchbox=\box28
-\nofMPsegments=\count124
-\nofMParguments=\count125
+\nofMPsegments=\count127
+\nofMParguments=\count128
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count126
+\MPscratchCnt=\count129
 \MPscratchDim=\dimen132
-\MPnumerator=\count127
-\makeMPintoPDFobject=\count128
+\MPnumerator=\count130
+\makeMPintoPDFobject=\count131
 \everyMPtoPDFconversion=\toks24
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -346,31 +353,31 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
-LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 55
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 57
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
 File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 55
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 57
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlptmcm.fd
 File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+psycm on input line 55
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 57
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxpsycm.fd
 File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 
  []
 
@@ -378,10 +385,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--55
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 56.
+(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 58.
  [2]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 58.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
  (./uctest.toc
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
@@ -396,60 +403,48 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 \tf@toc=\write3
 \openout3 = `uctest.toc'.
 
- [4] (./uctest.lof
+ [4] (./uctest.lof [5
 
-LaTeX Warning: Reference `sec:model_GC' on page 35 undefined on input line 5.
-
-
-LaTeX Warning: Reference `fig:roi_residmap' on page 37 undefined on input line 
-6.
-
-[5
-
-]
-
-LaTeX Warning: Reference `sec:MCMethods' on page 45 undefined on input line 9.
-
-)
+])
 \tf@lof=\write4
 \openout4 = `uctest.lof'.
 
- [6] (./uctest.lot
+ [6] [7] (./uctest.lot
 
-Package natbib Warning: Citation `1999MNRAS.310..645W' on page vii undefined on
- input line 4.
-
-
-Package natbib Warning: Citation `2008ApJ...684.1143X' on page vii undefined on
- input line 4.
+Package natbib Warning: Citation `1999MNRAS.310..645W' on page viii undefined o
+n input line 5.
 
 
-Package natbib Warning: Citation `2009PASJ...61..227S' on page vii undefined on
- input line 4.
+Package natbib Warning: Citation `2008ApJ...684.1143X' on page viii undefined o
+n input line 5.
 
 
-Package natbib Warning: Citation `2010ApJ...720L.108G' on page vii undefined on
- input line 4.
+Package natbib Warning: Citation `2009PASJ...61..227S' on page viii undefined o
+n input line 5.
 
 
-Package natbib Warning: Citation `2010JCAP...02..030K' on page vii undefined on
- input line 4.
+Package natbib Warning: Citation `2010ApJ...720L.108G' on page viii undefined o
+n input line 5.
 
 
-Package natbib Warning: Citation `2010MNRAS.402..934M' on page vii undefined on
- input line 4.
+Package natbib Warning: Citation `2010JCAP...02..030K' on page viii undefined o
+n input line 5.
 
 
-Package natbib Warning: Citation `2011MNRAS.414.2446M' on page vii undefined on
- input line 4.
+Package natbib Warning: Citation `2010MNRAS.402..934M' on page viii undefined o
+n input line 5.
+
+
+Package natbib Warning: Citation `2011MNRAS.414.2446M' on page viii undefined o
+n input line 5.
 
 )
 \tf@lot=\write5
 \openout5 = `uctest.lot'.
 
- [7
+ [8
 
-] [8] [9] [10]
+] [9] [10] [11]
 \openout2 = `chapter1.aux'.
 
  (./chapter1.tex
@@ -462,325 +457,422 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
- [2] [3] [4] [5] [6]) [7]
+ [2]
+<figures/clowe_a.jpg, id=52, 144.54pt x 97.3236pt>
+File: figures/clowe_a.jpg Graphic file (type jpg)
+<use figures/clowe_a.jpg>
+Package pdftex.def Info: figures/clowe_a.jpg  used on input line 15.
+(pdftex.def)             Requested size: 186.99734pt x 125.9177pt.
+<figures/clowe_b.jpg, id=53, 144.54pt x 97.3236pt>
+File: figures/clowe_b.jpg Graphic file (type jpg)
+<use figures/clowe_b.jpg>
+Package pdftex.def Info: figures/clowe_b.jpg  used on input line 16.
+(pdftex.def)             Requested size: 186.99734pt x 125.9177pt.
+ [3 <./figures/clowe_a.jpg> <./figures/clowe_b.jpg>] [4]
+
+LaTeX Warning: Reference `chapter:pwave' on page 5 undefined on input line 54.
+
+
+LaTeX Warning: Reference `chapter:pwave_analysis' on page 5 undefined on input 
+line 54.
+
+[5] [6] [7]) [8]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
 Chapter 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-[8
+[9
 
 
 
-] [9] [10]
+] [10] [11]
 Overfull \hbox (6.29115pt too wide) in paragraph at lines 19--21
 []\OT1/ptm/m/n/10.95 Below each tracker tower lies a calorime-ter mod-ule con-t
 ain-ing 96 scin-til-lat-ing thallium-
  []
 
-[11] [12]
+[12] [13]
+<figures/Fermi_5_year.jpg, id=88, 1759.32281pt x 903.375pt>
+File: figures/Fermi_5_year.jpg Graphic file (type jpg)
+<use figures/Fermi_5_year.jpg>
+Package pdftex.def Info: figures/Fermi_5_year.jpg  used on input line 37.
+(pdftex.def)             Requested size: 373.9947pt x 192.03012pt.
 
-Package natbib Warning: Citation `acero_development_2016' on page 13 undefined 
-on input line 37.
 
-[13]
+Package natbib Warning: Citation `acero_development_2016' on page 14 undefined 
+on input line 50.
 
-Package natbib Warning: Citation `blandford_znajek_1977' on page 14 undefined o
-n input line 45.
+[14] [15 <./figures/Fermi_5_year.jpg>]
 
-[14] [15]
+Package natbib Warning: Citation `blandford_znajek_1977' on page 16 undefined o
+n input line 58.
+
+[16]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
+ [17]
 
+Package natbib Warning: Citation `wilks_1938' on page 18 undefined on input lin
+e 72.
 
-Package natbib Warning: Citation `wilks_1938' on page 16 undefined on input lin
-e 59.
-
-[16]) [17]
+) [18]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
 Chapter 3.
-[18
+[19
 
 
 
-]) [19] [20]
+] [20]) [21]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
+Chapter 4.
 
-Package natbib Warning: Citation `2015ApJS..218...23A' on page 21 undefined on 
-input line 4.
-
-
-LaTeX Warning: Reference `sec:sens' on page 21 undefined on input line 9.
+Package natbib Warning: Citation `2015ApJS..218...23A' on page 22 undefined on 
+input line 5.
 
 
-Package natbib Warning: Citation `2015ApJ...810...14A' on page 21 undefined on 
-input line 10.
-
-[21
+LaTeX Warning: Reference `sec:sens' on page 22 undefined on input line 12.
 
 
-] [22]
-
-Package natbib Warning: Citation `2013arXiv1304.5456B' on page 23 undefined on 
-input line 50.
-
-[23] [24] [25]
-
-Package natbib Warning: Citation `2011ATel.3214....1A' on page 26 undefined on 
-input line 121.
-
-[26]
-
-Package natbib Warning: Citation `1999MNRAS.310..645W' on page 27 undefined on 
-input line 134.
+Package natbib Warning: Citation `2015ApJ...810...14A' on page 22 undefined on 
+input line 13.
 
 
-Package natbib Warning: Citation `2008ApJ...684.1143X' on page 27 undefined on 
-input line 134.
+Overfull \hbox (6.28009pt too wide) in paragraph at lines 12--14
+\OT1/ptm/m/n/10.95 fur-ther con-sid-er-a-tion point sources as-so-ci-ated with 
+known as-tro-phys-i-cal sources (such as blazars).
+ []
+
+[22
 
 
-Package natbib Warning: Citation `2009PASJ...61..227S' on page 27 undefined on 
-input line 134.
+
+] [23] [24]
+Overfull \hbox (10.7454pt too wide) in paragraph at lines 57--61
+[]\OT1/ptm/m/n/10.95 In or-der to es-ti-mate the ve-loc-ity of a PS, the max-im
+a of the like-li-hood func-tion $\OMS/pzccm/m/n/10.95 L\OT1/ptmcm/m/n/10.95 ([]
+\OML/ptmcm/m/it/10.95 ; t[]; []; []\OT1/ptmcm/m/n/10.95 )$
+ []
+
+[25]
+
+Package natbib Warning: Citation `2013arXiv1304.5456B' on page 26 undefined on 
+input line 67.
+
+[26] [27]
+<figures/reconstructedVelocity.pdf, id=136, 529.13339pt x 464.81522pt>
+File: figures/reconstructedVelocity.pdf Graphic file (type pdf)
+<use figures/reconstructedVelocity.pdf>
+Package pdftex.def Info: figures/reconstructedVelocity.pdf  used on input line 
+109.
+(pdftex.def)             Requested size: 373.9947pt x 328.53168pt.
+ [28] [29 <./figures/reconstructedVelocity.pdf>] [30]
+
+Package natbib Warning: Citation `2011ATel.3214....1A' on page 31 undefined on 
+input line 150.
 
 
-Package natbib Warning: Citation `2010ApJ...720L.108G' on page 27 undefined on 
-input line 134.
+Overfull \hbox (24.10593pt too wide) in paragraph at lines 153--157
+\OT1/ptm/m/n/10.95 is not a good PBH can-di-date. In-ci-den-tally af-ter the pu
+b-li-ca-tion of the 3FGL source list, J2310.1$\OMS/pzccm/m/n/10.95 ^^@$\OT1/ptm
+/m/n/10.95 0557
+ []
+
+<figures/3fgl_overlay.pdf, id=163, 347.73067pt x 309.96225pt>
+File: figures/3fgl_overlay.pdf Graphic file (type pdf)
+<use figures/3fgl_overlay.pdf>
+Package pdftex.def Info: figures/3fgl_overlay.pdf  used on input line 160.
+(pdftex.def)             Requested size: 186.99734pt x 166.69131pt.
+<figures/4fgl_overlay.pdf, id=164, 347.73067pt x 309.96225pt>
+File: figures/4fgl_overlay.pdf Graphic file (type pdf)
+<use figures/4fgl_overlay.pdf>
+Package pdftex.def Info: figures/4fgl_overlay.pdf  used on input line 161.
+(pdftex.def)             Requested size: 186.99734pt x 166.69131pt.
+[31]
+
+Package natbib Warning: Citation `1999MNRAS.310..645W' on page 32 undefined on 
+input line 179.
 
 
-Package natbib Warning: Citation `2010MNRAS.402..934M' on page 27 undefined on 
-input line 134.
+Package natbib Warning: Citation `2008ApJ...684.1143X' on page 32 undefined on 
+input line 179.
 
 
-Package natbib Warning: Citation `2011MNRAS.414.2446M' on page 27 undefined on 
-input line 134.
+Package natbib Warning: Citation `2009PASJ...61..227S' on page 32 undefined on 
+input line 179.
 
 
-Package natbib Warning: Citation `2010JCAP...02..030K' on page 27 undefined on 
-input line 135.
-
-[27]
-
-LaTeX Warning: Reference `app:PBH_spectrum' on page 28 undefined on input line 
-172.
-
-[28] [29] [30]
-
-LaTeX Warning: Reference `app:PBH_spectrum' on page 31 undefined on input line 
-233.
+Package natbib Warning: Citation `2010ApJ...720L.108G' on page 32 undefined on 
+input line 179.
 
 
-Overfull \hbox (135.29837pt too wide) in paragraph at lines 236--249
+Package natbib Warning: Citation `2010MNRAS.402..934M' on page 32 undefined on 
+input line 179.
+
+
+Package natbib Warning: Citation `2011MNRAS.414.2446M' on page 32 undefined on 
+input line 179.
+
+
+Package natbib Warning: Citation `2010JCAP...02..030K' on page 32 undefined on 
+input line 180.
+
+[32 <./figures/3fgl_overlay.pdf> <./figures/4fgl_overlay.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figures/4fgl_overlay.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+>] [33] [34] [35]
+
+LaTeX Warning: Reference `app:PBH_spectrum' on page 36 undefined on input line 
+275.
+
+
+Overfull \hbox (135.29837pt too wide) in paragraph at lines 278--291
  [] 
  []
 
 
-Package natbib Warning: Citation `1999MNRAS.310..645W' on page 31 undefined on 
-input line 249.
+Package natbib Warning: Citation `1999MNRAS.310..645W' on page 36 undefined on 
+input line 291.
 
 
-Package natbib Warning: Citation `2008ApJ...684.1143X' on page 31 undefined on 
-input line 249.
+Package natbib Warning: Citation `2008ApJ...684.1143X' on page 36 undefined on 
+input line 291.
 
 
-Package natbib Warning: Citation `2009PASJ...61..227S' on page 31 undefined on 
-input line 249.
+Package natbib Warning: Citation `2009PASJ...61..227S' on page 36 undefined on 
+input line 291.
 
 
-Package natbib Warning: Citation `2010ApJ...720L.108G' on page 31 undefined on 
-input line 249.
+Package natbib Warning: Citation `2010ApJ...720L.108G' on page 36 undefined on 
+input line 291.
 
 
-Package natbib Warning: Citation `2010JCAP...02..030K' on page 31 undefined on 
-input line 249.
+Package natbib Warning: Citation `2010JCAP...02..030K' on page 36 undefined on 
+input line 291.
 
 
-Package natbib Warning: Citation `2010MNRAS.402..934M' on page 31 undefined on 
-input line 249.
+Package natbib Warning: Citation `2010MNRAS.402..934M' on page 36 undefined on 
+input line 291.
 
 
-Package natbib Warning: Citation `2011MNRAS.414.2446M' on page 31 undefined on 
-input line 249.
+Package natbib Warning: Citation `2011MNRAS.414.2446M' on page 36 undefined on 
+input line 291.
 
 
-Package natbib Warning: Citation `1999MNRAS.310..645W' on page 31 undefined on 
-input line 249.
+Package natbib Warning: Citation `1999MNRAS.310..645W' on page 36 undefined on 
+input line 291.
 
 
-Package natbib Warning: Citation `2008ApJ...684.1143X' on page 31 undefined on 
-input line 249.
+Package natbib Warning: Citation `2008ApJ...684.1143X' on page 36 undefined on 
+input line 291.
 
 
-Package natbib Warning: Citation `2009PASJ...61..227S' on page 31 undefined on 
-input line 249.
+Package natbib Warning: Citation `2009PASJ...61..227S' on page 36 undefined on 
+input line 291.
 
 
-Package natbib Warning: Citation `2010ApJ...720L.108G' on page 31 undefined on 
-input line 249.
+Package natbib Warning: Citation `2010ApJ...720L.108G' on page 36 undefined on 
+input line 291.
 
 
-Package natbib Warning: Citation `2010JCAP...02..030K' on page 31 undefined on 
-input line 249.
+Package natbib Warning: Citation `2010JCAP...02..030K' on page 36 undefined on 
+input line 291.
 
 
-Package natbib Warning: Citation `2010MNRAS.402..934M' on page 31 undefined on 
-input line 249.
+Package natbib Warning: Citation `2010MNRAS.402..934M' on page 36 undefined on 
+input line 291.
 
 
-Package natbib Warning: Citation `2011MNRAS.414.2446M' on page 31 undefined on 
-input line 249.
+Package natbib Warning: Citation `2011MNRAS.414.2446M' on page 36 undefined on 
+input line 291.
 
-<figures/detectability_map.pdf, id=140, 526.12558pt x 463.97339pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[36]
+<figures/detectability_map.pdf, id=213, 526.12558pt x 463.97339pt>
 File: figures/detectability_map.pdf Graphic file (type pdf)
 <use figures/detectability_map.pdf>
-Package pdftex.def Info: figures/detectability_map.pdf  used on input line 270.
+Package pdftex.def Info: figures/detectability_map.pdf  used on input line 312.
 
 (pdftex.def)             Requested size: 210.4465pt x 185.58606pt.
-) [31] [32 <./figures/detectability_map.pdf>]
-\openout2 = `chapter6.aux'.
+) [37 <./figures/detectability_map.pdf>]
+\openout2 = `chapter5.aux'.
 
- (./chapter6.tex
+ (./chapter5.tex
+Chapter 5.
+) [38
 
-Package natbib Warning: Citation `Atwood:2009ez' on page 33 undefined on input 
-line 7.
-
-
-Package natbib Warning: Citation `2013arXiv1303.3514A' on page 33 undefined on 
-input line 7.
-
-
-Package natbib Warning: Citation `GC2016' on page 33 undefined on input line 14
-.
-
-[33
 
 
 ]
-Overfull \hbox (71.53925pt too wide) in paragraph at lines 27--37
+\openout2 = `chapter6.aux'.
+
+ (./chapter6.tex
+Chapter 6.
+
+Package natbib Warning: Citation `Atwood:2009ez' on page 39 undefined on input 
+line 8.
+
+
+Package natbib Warning: Citation `2013arXiv1303.3514A' on page 39 undefined on 
+input line 8.
+
+
+Package natbib Warning: Citation `GC2016' on page 39 undefined on input line 15
+.
+
+[39
+
+
+
+]
+Overfull \hbox (71.53925pt too wide) in paragraph at lines 28--38
 [][] 
  []
 
-<figures/dataModelComparison.pdf, id=161, 815.68822pt x 330.7498pt>
+[40]
+<figures/dataModelComparison.pdf, id=237, 815.68822pt x 330.7498pt>
 File: figures/dataModelComparison.pdf Graphic file (type pdf)
 <use figures/dataModelComparison.pdf>
-Package pdftex.def Info: figures/dataModelComparison.pdf  used on input line 42
+Package pdftex.def Info: figures/dataModelComparison.pdf  used on input line 43
 .
 (pdftex.def)             Requested size: 373.9947pt x 151.65216pt.
 
-Package natbib Warning: Citation `REF:2015.3FGL' on page 34 undefined on input 
-line 54.
+
+Package natbib Warning: Citation `REF:2015.3FGL' on page 41 undefined on input 
+line 55.
 
 
-Package natbib Warning: Citation `GC2016' on page 34 undefined on input line 54
-.
-
-[34]
-
-Package natbib Warning: Citation `MINUIT' on page 35 undefined on input line 63
+Package natbib Warning: Citation `GC2016' on page 41 undefined on input line 55
 .
 
 
-Package natbib Warning: Citation `GC2016' on page 35 undefined on input line 66
+Package natbib Warning: Citation `MINUIT' on page 41 undefined on input line 64
 .
 
-[35 <./figures/dataModelComparison.pdf>] [36]
-<figures/residComparison.pdf, id=202, 820.04292pt x 330.7498pt>
+
+Package natbib Warning: Citation `GC2016' on page 41 undefined on input line 67
+.
+
+[41] [42 <./figures/dataModelComparison.pdf>]
+<figures/residComparison.pdf, id=268, 820.04292pt x 330.7498pt>
 File: figures/residComparison.pdf Graphic file (type pdf)
 <use figures/residComparison.pdf>
-Package pdftex.def Info: figures/residComparison.pdf  used on input line 90.
+Package pdftex.def Info: figures/residComparison.pdf  used on input line 91.
 (pdftex.def)             Requested size: 373.9947pt x 150.84467pt.
 
 
-LaTeX Warning: Reference `fig:dataModelComparison' on page 37 undefined on inpu
-t line 99.
+LaTeX Warning: Reference `fig:dataModelComparison' on page 43 undefined on inpu
+t line 100.
 
-
-Overfull \hbox (45.55669pt too wide) in alignment at lines 111--111
+[43]
+Overfull \hbox (45.55669pt too wide) in alignment at lines 112--112
 [] [] [] [] [] [] 
  []
 
 
-Package natbib Warning: Citation `GC2016' on page 37 undefined on input line 11
-6.
-
-[37 <./figures/residComparison.pdf>]
-
-LaTeX Warning: Reference `sec:dm' on page 38 undefined on input line 126.
+Package natbib Warning: Citation `GC2016' on page 44 undefined on input line 11
+7.
 
 
-LaTeX Warning: Reference `sec:conclusion' on page 38 undefined on input line 12
-8.
+LaTeX Warning: Reference `sec:dm' on page 44 undefined on input line 127.
 
-[38] [39] [40]
-<figures/ts_hist.pdf, id=240, 435.40474pt x 445.9115pt>
+
+LaTeX Warning: Reference `sec:conclusion' on page 44 undefined on input line 12
+9.
+
+[44 <./figures/residComparison.pdf>] [45] [46] [47]
+<figures/ts_hist.pdf, id=309, 435.40474pt x 445.9115pt>
 File: figures/ts_hist.pdf Graphic file (type pdf)
 <use figures/ts_hist.pdf>
-Package pdftex.def Info: figures/ts_hist.pdf  used on input line 175.
+Package pdftex.def Info: figures/ts_hist.pdf  used on input line 176.
 (pdftex.def)             Requested size: 186.99734pt x 191.51367pt.
-<figures/correlation_coefficients.pdf, id=241, 443.75188pt x 441.74484pt>
+<figures/correlation_coefficients.pdf, id=310, 443.75188pt x 441.74484pt>
 File: figures/correlation_coefficients.pdf Graphic file (type pdf)
 <use figures/correlation_coefficients.pdf>
 Package pdftex.def Info: figures/correlation_coefficients.pdf  used on input li
-ne 176.
+ne 177.
 (pdftex.def)             Requested size: 186.99734pt x 186.15169pt.
- [41] [42 <./figures/ts_hist.pdf> <./figures/correlation_coefficients.pdf
+ [48] [49 <./figures/ts_hist.pdf> <./figures/correlation_coefficients.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./figures/correlation_coefficients.pdf)
 : PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<./figures/good_box_fit.pdf, id=285, 435.40474pt x 445.9115pt>
+<./figures/good_box_fit.pdf, id=355, 435.40474pt x 445.9115pt>
 File: ./figures/good_box_fit.pdf Graphic file (type pdf)
 <use ./figures/good_box_fit.pdf>
-Package pdftex.def Info: ./figures/good_box_fit.pdf  used on input line 212.
+Package pdftex.def Info: ./figures/good_box_fit.pdf  used on input line 213.
 (pdftex.def)             Requested size: 186.99734pt x 191.51367pt.
-<./figures/brazil_artificial_box.pdf, id=286, 448.7176pt x 441.74484pt>
+<./figures/brazil_artificial_box.pdf, id=356, 448.7176pt x 441.74484pt>
 File: ./figures/brazil_artificial_box.pdf Graphic file (type pdf)
 <use ./figures/brazil_artificial_box.pdf>
 Package pdftex.def Info: ./figures/brazil_artificial_box.pdf  used on input lin
-e 213.
+e 214.
 (pdftex.def)             Requested size: 186.99734pt x 184.09584pt.
- [43]
-<figures/brazil_wide_box.pdf, id=290, 448.7176pt x 441.74484pt>
-File: figures/brazil_wide_box.pdf Graphic file (type pdf)
-<use figures/brazil_wide_box.pdf>
-Package pdftex.def Info: figures/brazil_wide_box.pdf  used on input line 236.
-(pdftex.def)             Requested size: 186.99734pt x 184.09584pt.
-<figures/brazil_narrow_box.pdf, id=291, 448.7176pt x 441.74484pt>
-File: figures/brazil_narrow_box.pdf Graphic file (type pdf)
-<use figures/brazil_narrow_box.pdf>
-Package pdftex.def Info: figures/brazil_narrow_box.pdf  used on input line 237.
-
-(pdftex.def)             Requested size: 186.99734pt x 184.09584pt.
- [44 <./figures/good_box_fit.pdf> <./figures/brazil_artificial_box.pdf
+ [50 <./figures/good_box_fit.pdf> <./figures/brazil_artificial_box.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./figures/brazil_artificial_box.pdf): P
 DF inclusion: multiple pdfs with page group included in a single page
 >]
-<figures/final_interpretation.pdf, id=324, 826.40182pt x 457.32281pt>
-File: figures/final_interpretation.pdf Graphic file (type pdf)
-<use figures/final_interpretation.pdf>
-Package pdftex.def Info: figures/final_interpretation.pdf  used on input line 2
-65.
-(pdftex.def)             Requested size: 373.9947pt x 206.96568pt.
-<figures/final_fixed_astro.pdf, id=325, 831.27298pt x 458.87843pt>
-File: figures/final_fixed_astro.pdf Graphic file (type pdf)
-<use figures/final_fixed_astro.pdf>
-Package pdftex.def Info: figures/final_fixed_astro.pdf  used on input line 279.
+<figures/brazil_wide_box.pdf, id=389, 448.7176pt x 441.74484pt>
+File: figures/brazil_wide_box.pdf Graphic file (type pdf)
+<use figures/brazil_wide_box.pdf>
+Package pdftex.def Info: figures/brazil_wide_box.pdf  used on input line 237.
+(pdftex.def)             Requested size: 186.99734pt x 184.09584pt.
+<figures/brazil_narrow_box.pdf, id=390, 448.7176pt x 441.74484pt>
+File: figures/brazil_narrow_box.pdf Graphic file (type pdf)
+<use figures/brazil_narrow_box.pdf>
+Package pdftex.def Info: figures/brazil_narrow_box.pdf  used on input line 238.
 
-(pdftex.def)             Requested size: 373.9947pt x 206.45137pt.
-) [45 <./figures/brazil_wide_box.pdf> <./figures/brazil_narrow_box.pdf
+(pdftex.def)             Requested size: 186.99734pt x 184.09584pt.
+ [51 <./figures/brazil_wide_box.pdf> <./figures/brazil_narrow_box.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./figures/brazil_narrow_box.pdf): PDF i
 nclusion: multiple pdfs with page group included in a single page
->] [46 <./figures/final_interpretation.pdf> <./figures/final_fixed_astro.pdf
+>]
+<figures/final_interpretation.pdf, id=429, 826.40182pt x 457.32281pt>
+File: figures/final_interpretation.pdf Graphic file (type pdf)
+<use figures/final_interpretation.pdf>
+Package pdftex.def Info: figures/final_interpretation.pdf  used on input line 2
+66.
+(pdftex.def)             Requested size: 373.9947pt x 206.96568pt.
+ [52 <./figures/final_interpretation.pdf>]
+<figures/final_fixed_astro.pdf, id=452, 831.27298pt x 458.87843pt>
+File: figures/final_fixed_astro.pdf Graphic file (type pdf)
+<use figures/final_fixed_astro.pdf>
+Package pdftex.def Info: figures/final_fixed_astro.pdf  used on input line 280.
 
-pdfTeX warning: /usr/bin/pdflatex (file ./figures/final_fixed_astro.pdf): PDF i
-nclusion: multiple pdfs with page group included in a single page
->] (./uctest.bbl
+(pdftex.def)             Requested size: 373.9947pt x 206.45137pt.
+) [53 <./figures/final_fixed_astro.pdf>]
+\openout2 = `chapter7.aux'.
+
+ (./chapter7.tex
+Chapter 7.
+) [54
+
+
+
+]
+\openout2 = `appendix.aux'.
+
+ (./appendix.tex
+Appendix A.
+[55
+
+
+
+]
+Appendix B.
+) [56
+
+] (./uctest.bbl
 Underfull \hbox (badness 3471) in paragraph at lines 4--8
 []\OT1/ptm/m/n/10.95 Heinz An-der-nach and Fritz Zwicky.  The Red-shift of Ex-t
 ra-galac-tic Neb-u-lae.
@@ -790,24 +882,25 @@ Missing character: There is no Å in font ptmr7t!
 Missing character: There is no ¡ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no  in font ptmr7t!
-[47
+[57
 
 
 ])
 
 Package natbib Warning: There were undefined citations.
 
-[48] (./uctest.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
-(./chapter4.aux) (./chapter6.aux))
+[58] (./uctest.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
+(./chapter4.aux) (./chapter5.aux) (./chapter6.aux) (./chapter7.aux)
+(./appendix.aux))
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3847 strings out of 494923
- 54350 string characters out of 6180742
- 118806 words of memory out of 5000000
- 7001 multiletter control sequences out of 15000+600000
+ 4010 strings out of 494923
+ 57100 string characters out of 6180742
+ 122278 words of memory out of 5000000
+ 7134 multiletter control sequences out of 15000+600000
  68041 words of font info for 135 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  41i,13n,29p,1228b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -819,20 +912,21 @@ onts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
-/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on uctest.pdf (58 pages, 814635 bytes).
+cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
+Output written on uctest.pdf (69 pages, 5127011 bytes).
 PDF statistics:
- 461 PDF objects out of 1000 (max. 8388607)
- 352 compressed objects within 4 object streams
+ 543 PDF objects out of 1000 (max. 8388607)
+ 407 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

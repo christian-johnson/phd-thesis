@@ -30,7 +30,20 @@ Data collected by \FermiLAT is downloaded via radio link in ~1.5 Gb intervals ap
 
 \section{$\gamma$-Ray Sky}
 A typical \FermiLAT gamma ray has an energy in the GeV range. An approximate measure for the corresponding temperature of such a photon is given by E/k= $10^13$ K, for comparison, the temperature at the center of the Sun is approximately $10^7$ K. Therefore high-energy gamma rays are generally produced by a handful of non-thermal processes. Relativistic charged particles can emit synchrotron radiation in the presence of magnetic fields, and bremsstrahlung radiation upon interactions with matter. Neutral pions decay to two gamma rays, and excited nuclei can de-excite via the emission of a gamma ray. In Chapter 6, I will discuss the potential for dark matter to annihilate to final states that include gamma rays.
-With this in mind, it is not surprising that the gamma-ray sky looks rather different from the sky in the optical band- see Figure X. A number of features are readily apparent from the whole-sky image:
+With this in mind, it is not surprising that the gamma-ray sky looks rather different from the sky in the optical band- see Figure \ref{fig:fermi5year}. A number of features are readily apparent from the whole-sky image:
+
+\begin{figure}
+\begin{center}
+\includegraphics[width=0.9\columnwidth]{figures/Fermi_5_year.jpg}
+\caption{
+\label{fig:fermi5year}
+The Fermi sky in Galactic coordinates using an Aitoff projection.
+Color corresponds to the integrated flux above 1 GeV over 5 years.
+The Galactic plane features prominently across the center of the image, while numerous point sources are seen across the entire sky.
+{\it Image credit: NASA/DOE/\Fermi-LAT Collaboration}
+}
+\end{center}
+\end{figure}
 \subsection{Diffuse emission}
 Much of the sky's gamma ray emission is in the Galactic plane, and is due to highly energetic charged particles interacting with the interstellar medium. These interaction generally produce neutral pions which then decay to two gamma rays, the energy of which depends on the energy of the initial cosmic ray. 
 The origin of high-energy cosmic rays was a mystery for some time, as 2nd-order \Fermi acceleration seemed insufficient to produce particles with energy >10 GeV. A number of authors in the 1970s, however, discovered that collisionless shock boundary of supernova remnants could sufficiently energize charged particles. At the shock boundary, the magnetic field is nearly discontinuous, and 1st order \Fermi acceleration is sufficient to produce charged particles in the many-GeV energy range.
@@ -48,7 +61,7 @@ Rapidly rotating neutron stars known as pulsars are one of the most numerous poi
 \subsubsection{Galactic Center}
 	The brightest source in the gamma-ray sky by far is the Galactic center, containing the supermassive black hole at the center of the Milky Way located at Sag A*. A number of models have been proposed to explain the gamma-ray emission at Sag A*, generally involving charged particles interacting with the surrounding medium \cite{van_eldik_gamma_2015}. These particles may be injected into the region by tidal disruption of stars by Sag A*. As discussed in Chapter 6, some DM models predict annihilation to occur in the region surrounding Sag A* as well, which may lead to gamma-ray emission.
 
-\section{Analysis Tools}
+\section{Analysis Tools}\label{sec:analysisTools}
 
 \FermiLAT data and LAT-specific analysis tools are publicly available for download from the \Fermi Science Support Center at NASA's Goddard Space Flight Center \footnote{{\tt https://fermi.gsfc.nasa.gov/ssc/}}. 
 Processing \FermiLAT data for analysis begins by removing photons (via the tool {\tt gtselect}) that are incident from near the Earth limb, as these mostly originate from cosmic ray interactions with the atmosphere. For a typical analysis, the photons are then binned (with the use of the tool {\tt gtbin}) in angular position and energy. The LAT effective area is convolved (by use of the tool {\tt gtltcube}) with its pointing history over the time period considered to produce an exposure map binned in energy and angular position. 
